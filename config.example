@@ -1,0 +1,5 @@
+; pon tus parametros y renombralo a config.ini
+[opciones]
+usuario=your user
+pass=your pass
+base=your database
